@@ -1,8 +1,8 @@
 # IUMS (Integrated University Management System)
 Hi!
-I am Debopriya Deb Roy. Currently a CSE undergrad student studying in Ahsanullah University of Science and Technology. In our software development lab of 2nd year 1st semester, we had to make a desktop application.
+I'm Maisha Musarrat Nabila. Currently, I am a CSE undergrad student studying at Ahsanullah University of Science and Technology. In our software development lab in the 2nd-year 1st semester, we had to make a desktop application.
 
-IUMS is a java written, javafx powered database management system for educational institution. It includes both student and admin end user interface and controls.
+IUMS is a Java-written, JavaFX-powered database management system for educational institutions. It includes both student and admin end-user interfaces and controls.
 
 ## Hardware Requirements: 
     ▪ Core i3 2.8Ghz processor and above.
@@ -19,7 +19,7 @@ IUMS is a java written, javafx powered database management system for educationa
     ▪ CSS
     ▪ SQL
 ## Java Library Dependencies 
-    IUMS uses some open source projects to work properly
+    IUMS uses some open-source projects to work properly
 * [controlsfx-11.0.3](https://github.com/controlsfx/controlsfx)
 * [javafx.activation-1.2.0](https://search.maven.org/artifact/com.sun.activation/javax.activation/1.2.0/jar) 
 * [jfoenix-9.0.10](https://github.com/sshahine/JFoenix)
@@ -30,7 +30,7 @@ IUMS is a java written, javafx powered database management system for educationa
   
 ## Installation
 To check the software just [Download](https://drive.google.com/file/d/1OvVzaPFZ5tchEcT5g1PpGW6py31KbRLO/view?usp=sharing) the file from this link. **(Make sure you have installed java 15.0.1 on your Machine)**
-Checkout some [Screenshots](https://drive.google.com/drive/folders/1FEFL1Rb374RhxsuY5Y-Kftc4fq-IoOfr?usp=sharing) .
+Check out some [Screenshots](https://drive.google.com/drive/folders/1FEFL1Rb374RhxsuY5Y-Kftc4fq-IoOfr?usp=sharing) .
 
 ## Developers
     Debopriya Deb Roy [Team Leader]
